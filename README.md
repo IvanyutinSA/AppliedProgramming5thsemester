@@ -8,6 +8,10 @@ restore dependencies
 ```
 $ venv/bin/pip install < requirenments
 ```
+install playwright chromium
+```
+$ playwright install chromium
+```
 run the test
 ```
 $ pytest
